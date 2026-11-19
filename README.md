@@ -2,7 +2,7 @@
 
 I’m a cybersecurity major at Brigham Young University–Idaho with a minor in Cloud Computing. My broader interests include IT systems, cloud infrastructure, networking, and finding practical ways technology can support an organization.
 
-This profile currently contains a small collection of coursework and personal projects. I am not particularly a software developer, but I have written some scripts and sites to support my schoolwork and other pursuits.
+This profile currently contains a small collection of coursework and personal projects. I am not particularly a software developer by trade, but I have written some scripts and sites to support my schoolwork and other pursuits.
 
 ## Skills and Technologies
 
