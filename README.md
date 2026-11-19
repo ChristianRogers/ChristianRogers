@@ -20,8 +20,7 @@ This profile currently contains a small collection of coursework and personal pr
 
 A website containing selected projects from my coursework and personal work.
 
-- [View the portfolio](https://christianrogers.store)
-- [View the source repository](https://github.com/ChristianRogers/christianrogers.github.io)
+- [View the portfolio](https://christianrogers.github.io)
 
 ### Coursework Repositories
 
